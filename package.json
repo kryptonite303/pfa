@@ -1,0 +1,25 @@
+{
+  "name": "pfa",
+  "version": "1.0.0",
+  "description": "Personal Financial Assistant",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kryptonite303/pfa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kryptonite303/pfa/issues"
+  },
+  "homepage": "https://github.com/kryptonite303/pfa#readme"
+}
